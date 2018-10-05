@@ -1,0 +1,1 @@
+gcc BattleOfOlympia.c menu.c matriks.c point.c layout.c create.c turn.c listlinier.c pcolor.c movestack.c mesinkata.c mesinkar.c -o BattleOfOlympia
